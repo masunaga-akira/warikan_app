@@ -55,42 +55,42 @@
   font-weight:bolder;
 	color: #ffff00;
 	letter-spacing: 0;
-	text-shadow: 0px 1px 0px #999,
-		 0px 2px 0px #888,
-		 0px 3px 0px #777,
-		 0px 4px 0px #666,
-		 0px 5px 0px #555,
-		 0px 6px 0px #444,
-		 0px 7px 0px #333,
-		 0px 8px 7px #001135
+	text-shadow: 1px 0px 1px #999,
+                     2px 0.5px 2px #888,
+                     3px 0px 3px #777,
+                     4px 1px 4px #666,
+                     5px 0px 5px #555,
+                     6px 1.5px 6px #444,
+                     7px 0px 7px #333,
+                     8px 2px 8px #001135
 }
 .text_2{
   font-size:40px;
   font-weight:bolder;
 	color: #ffff00;
 	letter-spacing: 0;
-	text-shadow: 0px 1px 0px #999,
-		 0px 2px 0px #888,
-		 0px 3px 0px #777,
-		 0px 4px 0px #666,
-		 0px 5px 0px #555,
-		 0px 6px 0px #444,
-		 0px 7px 0px #333,
-		 0px 8px 7px #001135
+	text-shadow: 1px 0px 1px #999,
+                     2px 0.5px 2px #888,
+                     3px 0px 3px #777,
+                     4px 1px 4px #666,
+                     5px 0px 5px #555,
+                     6px 1.5px 6px #444,
+                     7px 0px 7px #333,
+                     8px 2px 8px #001135
 }
 .text_3{
   font-size:40px;
   font-weight:bolder;
 	color: #ffff00;
 	letter-spacing: 0;
-	text-shadow: 0px 1px 0px #999,
-		 0px 2px 0px #888,
-		 0px 3px 0px #777,
-		 0px 4px 0px #666,
-		 0px 5px 0px #555,
-		 0px 6px 0px #444,
-		 0px 7px 0px #333,
-		 0px 8px 7px #001135
+	text-shadow:1px 0px 1px #999,
+                     2px 0.5px 2px #888,
+                     3px 0px 3px #777,
+                     4px 1px 4px #666,
+                     5px 0px 5px #555,
+                     6px 1.5px 6px #444,
+                     7px 0px 7px #333,
+                     8px 2px 8px #001135 
 }
 /*ヘッダーの設定*/
 *{
@@ -102,7 +102,8 @@ h1{
   font-size:50px;
   color:#ffff00;
   text-shadow: 0px 0px 20px #000000,
-     0px 0px 20px #000000;
+               0px 0px 20px #000000,
+               0px 0px 20px #000000
 }
 
 body{
